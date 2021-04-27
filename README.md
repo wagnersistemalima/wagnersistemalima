@@ -10,6 +10,8 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 ```
 
+![Snake animatioon](https://github.com/lincolngadea/lincolngadea/blob/master/github-user-contribution.svg)
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wagnersistemalima&repo=wagnersistemalima&countColorcountColor)
 
 ### Languages & Tools 🛠  
