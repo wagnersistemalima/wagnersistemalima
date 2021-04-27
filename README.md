@@ -5,6 +5,11 @@
 
 My name is Wagner Lima. I work as a Desenvolvedor back-end Java/Kotlin at Zup Innovation.
 
+```
+System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
+
+```
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=wagnersistemalima&repo=wagnersistemalima&countColorcountColor)
 
 ### Languages & Tools 🛠  
