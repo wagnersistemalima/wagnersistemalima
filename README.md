@@ -30,6 +30,11 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wagnersistemalima&hide_border=true)
 
+
+## Faculdade
+
+[Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação](https://www.unifacisa.edu.br/home)
+
 ### Let's connect? 🤝
 
 <p align="left">
