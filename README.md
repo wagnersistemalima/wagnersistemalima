@@ -35,6 +35,25 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 [Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação](https://www.unifacisa.edu.br/home)
 
+## Portfólio
+
+* Faça seu pedido que entregamos para você, projeto Web de delivery de pratos de refeição, desenvolvido em Java com Spring Boot no backend, e ReactJS no Front-end
+
+[DS Delivery](https://wagnersistemalimasds2.netlify.app/)
+
+
+* Achadinho Pets, um projeto web com HTML e CSS, o sistema mostra uma lista de Pets perdidos e achados, onde o usuário tem a opção de se cadastrar caso tenha perdido algum pet ou queira se tornar um voluntário e ajudar um animal de estimação perdido a encontrar seu lar. Um sistema simples com uma solução bem legal, utilizando o uso das tecnologias e a boa vontade das pessoas, movidas por um sentimento coletivo de solidariedade, as chances de reencontro são maiores.
+
+[Achadinho Pets](https://wagnersistemalima-achadinho-petz.netlify.app/)
+
+
+## Livros Lidos
+
+* Engenharia de software por Ian Sommerville 
+* Clean Code 
+* A arte da guerra por Sun Tzu/ 
+* Effective Java - Uso ele pra consulta
+
 ### Let's connect? 🤝
 
 <p align="left">
