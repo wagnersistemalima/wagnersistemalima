@@ -42,7 +42,7 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 ## Portfólio
 
-* Faça seu pedido que entregamos para você, projeto Web de delivery de pratos de refeição, desenvolvido em Java com Spring Boot no backend, e ReactJS no Front-end
+* Ds-Delivery: Faça seu pedido que entregamos para você, projeto Web de delivery de pratos de refeição, desenvolvido em Java com Spring Boot no backend, e ReactJS no Front-end
 
 [DS Delivery](https://wagnersistemalimasds2.netlify.app/)
 
