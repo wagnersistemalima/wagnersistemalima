@@ -37,8 +37,9 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 
 ## Faculdade
+* Para quem não tem medo de ser chamado de nerd
 
-[Unifacisa - Campina Grande - PB / Estudande do curso Sistemas de Informação](https://www.unifacisa.edu.br/home)
+[Faculdade Estácio / Estudande do curso Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
 
 ## Portfólio
 
