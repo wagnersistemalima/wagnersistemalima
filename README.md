@@ -55,7 +55,7 @@ System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
 
 [DsMovie](https://wagnersistemalimasdscripto.netlify.app/)
 
-* Aplicativo de avaliação de filmes
+* Aplicativo de avaliação de filmes, e so entrar e dar sua estrelinha nos filmes que ja assistiu, tem muitos filmes legais lá!
 
 
 ## Livros Lidos
