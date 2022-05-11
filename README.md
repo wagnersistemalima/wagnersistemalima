@@ -6,7 +6,7 @@
 My name is Wagner Lima. I work as a Desenvolvedor back-end at Zup Innovation / Itau
 
 ```
-System.out.printLn("São as ideias que nos conectam e não os algoritimos!");
+logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ```
 
