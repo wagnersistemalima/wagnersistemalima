@@ -55,7 +55,7 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 [DsMovie](https://wagnersistemalimasdscripto.netlify.app/)
 
-* Aplicativo de avaliação de filmes, e so entrar e dar sua estrelinha nos filmes que ja assistiu, tem muitos filmes legais lá!
+* Aplicativo de avaliação de filmes, e so entrar e dar sua estrelinha nos filmes que ja assistiu, tem muitos filmes legais lá. Desenvolvido em Kotlin com Spring no backend e ReactJS no Front-end
 
 
 ## Livros Lidos
