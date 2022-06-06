@@ -31,6 +31,10 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wagnersistemalima&hide_border=true)
 
 
+## Curriculo proffisional
+
+![Curriculo](https://drive.google.com/file/d/15jxz1FfveaFw2D8qoQ-kQ97SfuF_swVM/view?usp=sharing)
+
 ## Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
 
 ![PC Master Race gif](https://media1.tenor.com/images/778b5c865476947a335e00663254a954/tenor.gif?itemid=7446773)
