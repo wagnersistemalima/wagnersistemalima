@@ -33,7 +33,7 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ## Curriculo proffisional
 
-![Curriculo](https://drive.google.com/file/d/15jxz1FfveaFw2D8qoQ-kQ97SfuF_swVM/view?usp=sharing)
+![Curriculo](https://github.com/wagnersistemalima/repositorio-util-properties/blob/main/images/curriculo_wagner.pdf)
 
 ## Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
 
