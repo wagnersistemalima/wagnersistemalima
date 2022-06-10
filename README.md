@@ -33,9 +33,11 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ## Curriculo proffisional
 
-![Curriculo](https://github.com/wagnersistemalima/repositorio-util-properties/blob/main/images/curriculo_wagner.pdf)
+[Curriculo](https://github.com/wagnersistemalima/repositorio-util-properties/blob/main/images/curriculo_wagner.pdf)
 
-## Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
+## Sobre mim
+
+* Analista de TI, profissional atuante na área de desenvolvimento de sistemas, responsavel por projetar, documentar, especificar, testar, implantar e cuidar da manutenção do software, aplicando boas praticas e com boas habilidades de comunicação. Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
 
 ![PC Master Race gif](https://media1.tenor.com/images/778b5c865476947a335e00663254a954/tenor.gif?itemid=7446773)
 
