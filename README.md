@@ -31,7 +31,7 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wagnersistemalima&hide_border=true)
 
 
-## Curriculo proffisional
+## Curriculo profissional
 
 [Curriculo](https://github.com/wagnersistemalima/repositorio-util-properties/blob/main/images/curriculo_wagner.pdf)
 
