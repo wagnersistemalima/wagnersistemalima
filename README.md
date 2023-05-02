@@ -45,7 +45,7 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 ## Faculdade
 * Para quem não tem medo de ser chamado de nerd
 
-[Faculdade Estácio / Graduado em Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
+[Faculdade Estácio / Graduação em Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
 
 ## Portfólio
 
