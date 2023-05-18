@@ -49,10 +49,6 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ## Portfólio
 
-[DS Delivery](https://wagnersistemalimasds2.netlify.app/)
-
-* Ds-Delivery: Faça seu pedido que entregamos para você, projeto Web de delivery de pratos de refeição, desenvolvido em Java com Spring Boot no backend, e ReactJS no Front-end
-
 [Achadinho Pets](https://wagnersistemalima-achadinho-petz.netlify.app/)
 
 * Achadinho Pets, um projeto web com HTML e CSS, o sistema mostra uma lista de Pets perdidos e achados, onde o usuário tem a opção de se cadastrar caso tenha perdido algum pet ou queira se tornar um voluntário e ajudar um animal de estimação perdido a encontrar seu lar. Um sistema simples com uma solução bem legal, utilizando o uso das tecnologias e a boa vontade das pessoas, movidas por um sentimento coletivo de solidariedade, as chances de reencontro são maiores.
@@ -60,11 +56,6 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 [Microsserviços-Backend](https://github.com/wagnersistemalima/kotlin-spring-boot-microsservicos-spring-cloud)
 
 * Sistema composto por vários microsserviços que comunicam entre si de forma transparente, escalável e com balanceamento de carga, com autenticação e autorização, usando OAuth e tokens JWT. Implementação utilizando as ferramentas do ecossistema Spring com Kotlin.
-
-[DsMovie](https://wagnersistemalimasdscripto.netlify.app/)
-
-* Aplicativo de avaliação de filmes, e so entrar e dar sua estrelinha nos filmes que ja assistiu, tem muitos filmes legais lá. Desenvolvido em Kotlin com Spring no backend e ReactJS no Front-end
-
 
 ## Livros Lidos
 
