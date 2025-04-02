@@ -31,10 +31,6 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wagnersistemalima&hide_border=true)
 
 
-## Curriculo profissional
-
-
-
 ## Sobre mim
 
 * Analista de TI, profissional atuante na área de desenvolvimento de sistemas, responsavel por projetar, documentar, especificar, testar, implantar e cuidar da manutenção do software, aplicando boas praticas e com boas habilidades de comunicação. Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
@@ -46,9 +42,6 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 * Para quem não tem medo de ser chamado de nerd
 
 [Faculdade Estácio / Graduação em Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
-
-[Diploma Digital](https://consultadiploma.estacio.br/diploma/1270.1270.f8cd062f447b)
-
 
 ## Portfólio
 
