@@ -33,7 +33,7 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ## Curriculo profissional
 
-[Curriculo](https://github.com/wagnersistemalima/repositorio-util-properties/blob/main/images/curriculo_wagner.pdf)
+
 
 ## Sobre mim
 
@@ -46,6 +46,9 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 * Para quem não tem medo de ser chamado de nerd
 
 [Faculdade Estácio / Graduação em Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
+
+[Diploma Digital](https://consultadiploma.estacio.br/diploma/1270.1270.f8cd062f447b)
+
 
 ## Portfólio
 
