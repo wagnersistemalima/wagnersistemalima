@@ -33,7 +33,12 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 
 ## Sobre mim
 
-* Analista de TI, profissional atuante na área de desenvolvimento de sistemas, responsavel por projetar, documentar, especificar, testar, implantar e cuidar da manutenção do software, aplicando boas praticas e com boas habilidades de comunicação. Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
+  
+* Sou um profissional atuante na área de desenvolvimento de sistemas, responsavel por projetar, documentar, especificar, testar, implantar e cuidar da manutenção do software,
+aplicando boas praticas e com boas habilidades de comunicação. Com mais de 4 anos de experiência, atuando no back-end, utilizando tecnologias como Java, Kotlin,
+Spring, e AWS. Tenho uma forte base em conceitos de microsserviços, clean code, aplicações distribuídas, e práticas de desenvolvimento ágil. Minha experiência inclui
+trabalhar em projetos desafiadores e entregar soluções de alta qualidade. Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
+
 
 ![PC Master Race gif](https://media1.tenor.com/images/778b5c865476947a335e00663254a954/tenor.gif?itemid=7446773)
 
@@ -42,6 +47,8 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 * Para quem não tem medo de ser chamado de nerd
 
 [Faculdade Estácio / Graduação em Análise e Desenvolvimento de Sistemas](https://estacio.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas)
+
+[Pós Tech em Arquitetura e Desenvolvimento Java](https://postech.fiap.com.br/curso/arquitetura-desenvolvimento-java)
 
 ## Portfólio
 
