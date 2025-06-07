@@ -31,13 +31,27 @@ logger.info("São as ideias que nos conectam e não os algoritimos!")
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=wagnersistemalima&hide_border=true)
 
 
-## Sobre mim
+## Sobre Mim
 
-  
-* Sou um profissional atuante na área de desenvolvimento de sistemas, responsavel por projetar, documentar, especificar, testar, implantar e cuidar da manutenção do software,
-aplicando boas praticas e com boas habilidades de comunicação. Com mais de 4 anos de experiência, atuando no back-end, utilizando tecnologias como Java, Kotlin,
-Spring, e AWS. Tenho uma forte base em conceitos de microsserviços, clean code, aplicações distribuídas, e práticas de desenvolvimento ágil. Minha experiência inclui
-trabalhar em projetos desafiadores e entregar soluções de alta qualidade. Além das minhas habilidades profissionais, adoro jogar no PC com meus amigos.
+Sou um desenvolvedor backend com mais de 4 anos de experiência na área de desenvolvimento de sistemas. Minha atuação envolve projetar, documentar, especificar, testar, implantar e realizar a manutenção de softwares, sempre aplicando boas práticas e utilizando habilidades de comunicação para garantir a qualidade e eficiência dos projetos.
+
+### Tecnologias
+- **Linguagens e Frameworks:** Java, Spring Boot
+- **Cloud:** AWS
+- **Banco de Dados:** SQL
+- **Ferramentas:** Maven, IntelliJ IDEA
+
+### Filosofia de Vida
+Além das habilidades técnicas, sou apaixonado pela cultura japonesa e tento aplicar alguns de seus princípios e valores no meu dia a dia:
+
+- **Shoshin:** A arte de aprender e evoluir todos os dias. Manter o olhar de quem está começando, mesmo após anos de prática. Sempre com mente aberta e sem arrogância.
+- **Oubaitori:** A arte de não se comparar. Um lembrete diário de que não estamos aqui para competir, mas para existir - cada um à sua maneira.
+- **Ganbatte:** A arte de fazer o seu melhor com o que você tem hoje. Não é sobre vencer, mas sobre continuar, respeitando o seu tempo e sem abandonar o seu caminho.
+
+### Objetivo
+Meu objetivo é continuar evoluindo como profissional, contribuindo para projetos desafiadores e impactantes, enquanto aplico valores que promovem crescimento pessoal e profissional.
+
+---
 
 
 ![PC Master Race gif](https://media1.tenor.com/images/778b5c865476947a335e00663254a954/tenor.gif?itemid=7446773)
@@ -55,17 +69,6 @@ trabalhar em projetos desafiadores e entregar soluções de alta qualidade. Alé
 [Achadinho Pets](https://wagnersistemalima-achadinho-petz.netlify.app/)
 
 * Achadinho Pets, um projeto web com HTML e CSS, o sistema mostra uma lista de Pets perdidos e achados, onde o usuário tem a opção de se cadastrar caso tenha perdido algum pet ou queira se tornar um voluntário e ajudar um animal de estimação perdido a encontrar seu lar. Um sistema simples com uma solução bem legal, utilizando o uso das tecnologias e a boa vontade das pessoas, movidas por um sentimento coletivo de solidariedade, as chances de reencontro são maiores.
-
-[Microsserviços-Backend](https://github.com/wagnersistemalima/kotlin-spring-boot-microsservicos-spring-cloud)
-
-* Sistema composto por vários microsserviços que comunicam entre si de forma transparente, escalável e com balanceamento de carga, com autenticação e autorização, usando OAuth e tokens JWT. Implementação utilizando as ferramentas do ecossistema Spring com Kotlin.
-
-## Livros Lidos
-
-* Engenharia de software por Ian Sommerville 
-* Clean Code 
-* A arte da guerra por Sun Tzu/ 
-* Effective Java - Uso ele pra consulta
 
 ### Let's connect? 🤝
 
