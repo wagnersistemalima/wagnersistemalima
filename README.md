@@ -44,7 +44,7 @@ Sou um desenvolvedor backend com mais de 4 anos de experiência na área de dese
 ### Filosofia de Vida
 Além das habilidades técnicas, sou apaixonado pela cultura japonesa e tento aplicar alguns de seus princípios e valores no meu dia a dia:
 
-- **Shoshin:** A arte de aprender e evoluir todos os dias. Manter o olhar de quem está começando, mesmo após anos de prática. Sempre com mente aberta e sem arrogância.
+- **Shoshin:** A arte de aprender e evoluir todos os dias. Manter o olhar de quem está começando, sempre com mente aberta e sem arrogância.
 - **Oubaitori:** A arte de não se comparar. Um lembrete diário de que não estamos aqui para competir, mas para existir - cada um à sua maneira.
 - **Ganbatte:** A arte de fazer o seu melhor com o que você tem hoje. Não é sobre vencer, mas sobre continuar, respeitando o seu tempo e sem abandonar o seu caminho.
 
