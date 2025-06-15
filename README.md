@@ -23,7 +23,7 @@ Sou um desenvolvedor backend na área de desenvolvimento de sistemas. Minha atua
 - **Ferramentas:** Maven, IntelliJ IDEA
 
 ### Filosofia de Vida
-Além das habilidades técnicas, sou apaixonado pela cultura japonesa e tento aplicar alguns de seus princípios e valores no meu dia a dia:
+Além das habilidades técnicas, tento aplicar alguns dos seus princípios e valores da cultura japonesa no meu dia a dia:
 
 - **Shoshin:** A arte de aprender e evoluir todos os dias. Manter o olhar de quem está começando, sempre com mente aberta e sem arrogância.
 - **Oubaitori:** A arte de não se comparar. Um lembrete diário de que não estamos aqui para competir, mas para existir - cada um à sua maneira.
@@ -59,17 +59,7 @@ Meu objetivo é continuar evoluindo como profissional, contribuindo para projeto
   <a href="https://github.com/wagnersistemalima"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 </p>
 
-##
 
-<div align="center">
-    
-##
-
-<div align="center">
-  <a href="https://github.com/wagnersistemalima/" target="_blank"><img src="https://profile-counter.glitch.me/wagnersistemalima/count.svg?"  />
-</div> 
- 
-##  
 <a href="https://github.com/wagnersistemalima"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
 
 <h3> My Contacts </h3>
@@ -83,15 +73,10 @@ Meu objetivo é continuar evoluindo como profissional, contribuindo para projeto
   </a>
 </div>
 
-##
-
 <div align="center">
    <img height="500em" <a href="https://imgur.com/A6uiN0R"><img src="https://i.imgur.com/A6uiN0R.gif" title="source: imgur.com" /></a>
 </div>
   
-##
-
-##  
 <a href="https://github.com/wagnersistemalima"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567&reversal=true&section=footer"/></a>
 
 ## Formação acadêmica
